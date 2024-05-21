@@ -52,6 +52,7 @@ import revva from './company/revva.png';
 import ehiotech from './company/ehiotech.png';
 import reedtech from './company/reedtech.png';
 import bigbot from './company/bigbot.png';
+import heatmap from './company/heatmap.png';
 
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
@@ -121,5 +122,6 @@ export {
   bigbot,
   mgplatform,
   abokie,
-  adlantique
+  adlantique,
+  heatmap
 };

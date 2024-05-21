@@ -35,6 +35,7 @@ import {
   ehiotech,
   syncteams, 
   revva,
+  heatmap,
   reedtech,
   bigbot,
   adlantique,
@@ -113,18 +114,25 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Lead Backend Engineer',
+    title: 'Software Engineer',
+    company_name: 'Heatmap.com',
+    icon: heatmap,
+    iconBg: '#333333',
+    date: 'May 2024 - Present'
+  },
+  {
+    title: 'Backend Engineer',
     company_name: 'Revva',
     icon: revva,
     iconBg: '#333333',
-    date: 'May 2023 - Present',
+    date: 'Mar 2023 - May 2024',
   },
   {
-    title: 'Senior Software Engineer',
+    title: 'Software Engineer',
     company_name: 'Syncteams',
     icon: syncteams,
     iconBg: '#333333',
-    date: 'Jul 2022 - Apr 2023',
+    date: 'July 2022 - Apr 2023',
   },
   {
     title: 'Software Engineer',
