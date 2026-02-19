@@ -146,15 +146,8 @@ const experiences = [
     company_name: 'Reed Tech NG',
     icon: reedtech,
     iconBg: '#333333',
-    date: 'Jan 2021 - Nov 2021',
-  },
-  {
-    title: 'Software Engineer',
-    company_name: 'BigBot NG',
-    icon: bigbot,
-    iconBg: '#333333',
-    date: 'Sep 2019 - Mar 2021',
-  },
+    date: 'Sept 2020 - Nov 2021',
+  }
 ];
 
 const projects = [
