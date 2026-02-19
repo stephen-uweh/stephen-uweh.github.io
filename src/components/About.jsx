@@ -37,10 +37,10 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Experienced software engineer with over 4 years of industry experience. 
-        I specialize in designing and implementing architectures for maximum scalability and uptime while keeping them maintainable and performant. 
-        I am experienced in working together with engineers while communicating with the operations and customer side to help achieve product goals and requirements. 
-        Skilled in applying SOLID principles, DRY, multiple design patterns, and architectural concepts.
+        Software Engineer with 4+ years of experience designing and building distributed and production grade systems. 
+        Proven ability to architect scalable, high throughput platforms, optimize system performance, and model data for reliability and growth. 
+        Experienced with cloud native and serverless architectures, asynchronous and queue based workflows, and end-to-end system design. Focused on delivering robust,
+        maintainable solutions through cross-functional collaboration and continuous iteration
       </motion.p>
 
       {/* <div className="mt-20 flex flex-wrap gap-10">
